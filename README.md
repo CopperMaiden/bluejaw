@@ -7,11 +7,12 @@ This project is dedicated to my partner and made possible by the HackClub organi
 
 ![In-Progress Cad Model of Physical Design & Logo](https://cdn.hackclub.com/019c3fd4-4820-7950-91f4-cfbe1e282a0e/bluejaw_3_.jpg)
 
-FILE GUIDE
----
+# FILE GUIDE
 
 ```
-/models
-/firmware
-/documentation
+/Documentation - All project documentation is stored here as markdown files
+/Firmware-&-Software - Any files pertaining to the firmware or otherwise code written for the device
+/Images - All images or screenshots taken during the course of designing this project
+/Models - Any 3D models associated with the project
+/PCB - GERBER file for the BLUEJAW V1.0 PCB
 ```
