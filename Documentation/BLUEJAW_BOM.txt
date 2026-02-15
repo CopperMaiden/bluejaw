@@ -1,0 +1,32 @@
+Partlist exported from PCB v138 at 2/15/2026 1:18 PM
+
+Reference Designators          Quantity Description Package                   Value                          Manufacturer              Manufacturer Part Number Vendor Vendor Part Number Top/Bottom 
+                               1        PCB Board   Board                                                                                                                                            
+B1, B2, B3, B4                 4                    XCVR_ESP32-C3-MINI-1-N4   ESP32-C3-MINI-1-N4             Espressif Systems                                                            Top        
+C1, C2, C10, C13               4                    CAPC1608X90N              CL10B105KP8NNNC                Samsung Electro-Mechanics                                                    Top        
+C3, C9, C11                    3                    CAPC1608X90N              CL10A106KP8NNNC                Samsung Electro-Mechanics                                                    Top        
+C5                             1                    CAPC1608X90N              CL10A475KP8NNNC                Samsung Electro-Mechanics                                                    Top        
+C6                             1                    CAPC1608X90               C0603C104K5RACTU               KEMET                                                                        Top        
+C7, C8, C12, C14, C15          5                    CAPC1608X90N              C0603C104K5RAC7411             Kemet                                                                        Top        
+CH1                            1                    SOT95P280X145-5N          MCP73811T-420I/OT                                                                                           Top        
+CR1                            1                    CR_SMA_403AE_OSI          SS14CR_SMA_403AE_OSI                                                                                        Top        
+D1                             1                    SOT143                    SP0503BAHTG                                                                                                 Top        
+J1                             1                    AMPHENOL_12402012E212A    12402012E212A                  Amphenol                                                                     Top        
+J2                             1                    JST_B2B-XH-A              B2B-XH-A                       JST Sales America Inc.                                                       Top        
+J3                             1                    AMPHENOL_F31W-1A7H1-11016 F31W-1A7H1-11016               Amphenol                                                                     Top        
+MOSFET1                        1                    MICRO3_SOT23_INF          IRLML6401TRPBFMICRO3_SOT23_INF                                                                              Top        
+R1, R6, R8, R10, R15, R16, R17 7                    RESC1607X60N              RC0603FR-0710KL                                                                                             Top        
+R2                             1                    RESC1005X40N              CRGCQ0402F82K                                                                                               Top        
+R3, R4                         2                    RES_ERA2AEB512X           ERA2AEB512X                    Panasonic                                                                    Top        
+R5                             1                    RES_ERA2AEB102X           ERA2AEB102X                    Panasonic                                                                    Top        
+R7                             1                    RES_ERJ-3GEYJ684V         ERJ-3GEYJ684V                  Panasonic                                                                    Top        
+R9                             1                    RES_ERA2ARC512X           ERA2ARC512X                    Panasonic                                                                    Top        
+R11                            1                    RES_ERA2AEB222X           ERA2AEB222X                    Panasonic                                                                    Top        
+R12                            1                    RC0402FR-07330RL          RC0402FR-07330RL                                                                                            Top        
+R13, R14                       2                    RESC3216X50N              RG3216P-5004-B-T1                                                                                           Top        
+S1                             1                    XDCR_PEC12R-4215F-S0024   PEC12R-4215F-S0024             Bourns                                                                       Top        
+U1                             1                    AMPHENOL_12402012E212A    LD39200PU33R                   ST Microelectronics                                                          Top        
+U2                             1                    QFN50P400X400X80-25N      CP2102N-A02-GQFN24R            Silicon Labs                                                                 Top        
+U3                             1                    SON50P150X150X80-6N       BQ29700DSER                    Texas Instruments                                                            Top        
+U4, U5                         2                    TRANS_CSD16406Q3          CSD16406Q3                                                                                                  Top        
+U6                             1                    SOT-23-5_MC_MCH           MCP3021A0T-E/OTSOT-23-5_MC_MCH                                                                              Top        
